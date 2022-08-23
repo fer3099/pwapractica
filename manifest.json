@@ -4,7 +4,7 @@
     "short_name": "PWA practica",
     "description": "Hola mundo",
     "start_url": "./?utm_source=web_app_manifest",
-    "scope": "./",
+    "scope": "./img",
     "display": "standalone",
     "theme_color": "#4e8780",
     "background_color": "#4e8780",
